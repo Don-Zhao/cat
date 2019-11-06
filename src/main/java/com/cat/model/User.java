@@ -1,11 +1,7 @@
 package com.cat.model;
 
-import java.io.Serializable;
-
-public class User implements Serializable{
+public class User{
 	
-	private static final long serialVersionUID = 1L;
-
 	private int id;
 	
 	private String name;
